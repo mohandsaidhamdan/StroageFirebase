@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153276408283",
+    "project_id": "strogefirbase",
+    "storage_bucket": "strogefirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153276408283:android:ebdbe3631d8d5c714b87fe",
+        "android_client_info": {
+          "package_name": "com.example.strogefirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153276408283-ppqaagjbbirclajb52265n5b7to8hbqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJfFfB-rbDpSnF4bHlWZmfCf7ozb8BMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153276408283-ppqaagjbbirclajb52265n5b7to8hbqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
